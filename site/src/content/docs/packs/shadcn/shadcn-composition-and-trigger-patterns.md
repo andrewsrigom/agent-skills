@@ -83,6 +83,3 @@ Use this skill when the task is mostly about composing shadcn primitives into st
 ## References
 
 - [Composition defaults and wrapper boundaries](/packs/shadcn/shadcn-composition-and-trigger-patterns/references/composition-defaults-and-wrapper-boundaries/)
-## References
-
-- [Composition Defaults And Wrapper Boundaries](/packs/shadcn/shadcn-composition-and-trigger-patterns/references/composition-defaults-and-wrapper-boundaries/)

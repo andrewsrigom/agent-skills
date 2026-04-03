@@ -85,6 +85,3 @@ export function CmsIcon({ name }: { name: string }) {
 ## References
 
 - [Dynamic icons and Lucide Lab](/packs/lucide-react/lucide-react-dynamic-icons-and-lucide-lab/references/dynamic-and-lab/)
-## References
-
-- [Dynamic Icons And Lucide Lab](/packs/lucide-react/lucide-react-dynamic-icons-and-lucide-lab/references/dynamic-and-lab/)

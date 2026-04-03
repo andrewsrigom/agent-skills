@@ -91,7 +91,3 @@ const user = insertUserSchema.parse({ name: "Ada" });
 
 - [references/validation-and-schema-generation.md](/packs/drizzle-orm/drizzle-orm-ecosystem-and-extensions/references/validation-and-schema-generation/)
 - [references/ecosystem-tooling-reference.md](/packs/drizzle-orm/drizzle-orm-ecosystem-and-extensions/references/ecosystem-tooling-reference/)
-## References
-
-- [Ecosystem Tooling Reference](/packs/drizzle-orm/drizzle-orm-ecosystem-and-extensions/references/ecosystem-tooling-reference/)
-- [Validation And Schema Generation](/packs/drizzle-orm/drizzle-orm-ecosystem-and-extensions/references/validation-and-schema-generation/)

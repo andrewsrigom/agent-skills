@@ -80,6 +80,3 @@ echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 ## References
 
 - [Opinionated enforcement defaults](/packs/engineering/setup-conventional-commits/references/opinionated-enforcement-defaults/)
-## References
-
-- [Opinionated Enforcement Defaults](/packs/engineering/setup-conventional-commits/references/opinionated-enforcement-defaults/)

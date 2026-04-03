@@ -72,6 +72,3 @@ Use this skill when the hard part is authenticated reuse or role-based test setu
 ## References
 
 - [Auth and isolation defaults](/packs/playwright/playwright-auth-projects-and-isolation/references/auth-and-isolation-defaults/)
-## References
-
-- [Auth And Isolation Defaults](/packs/playwright/playwright-auth-projects-and-isolation/references/auth-and-isolation-defaults/)

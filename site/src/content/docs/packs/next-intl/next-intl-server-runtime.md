@@ -84,7 +84,3 @@ Use this skill when the task is about request-scoped config, server-side API sel
 
 - [references/environment-api-matrix.md](/packs/next-intl/next-intl-server-runtime/references/environment-api-matrix/)
 - [references/static-rendering-errors-and-tests.md](/packs/next-intl/next-intl-server-runtime/references/static-rendering-errors-and-tests/)
-## References
-
-- [Environment API Matrix](/packs/next-intl/next-intl-server-runtime/references/environment-api-matrix/)
-- [Static Rendering, Error Files, and Tests](/packs/next-intl/next-intl-server-runtime/references/static-rendering-errors-and-tests/)

@@ -68,6 +68,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Validation and sink defaults](/packs/security/security-input-validation-and-dangerous-sinks/references/validation-and-sink-defaults/)
-## References
-
-- [Validation And Sink Defaults](/packs/security/security-input-validation-and-dangerous-sinks/references/validation-and-sink-defaults/)

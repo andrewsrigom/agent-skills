@@ -76,6 +76,3 @@ Use this skill when the task is mainly about what a subscription state means and
 ## References
 
 - [Subscription lifecycle defaults](/packs/stripe/stripe-subscriptions-lifecycle-and-entitlements/references/subscription-lifecycle-defaults/)
-## References
-
-- [Subscription Lifecycle Defaults](/packs/stripe/stripe-subscriptions-lifecycle-and-entitlements/references/subscription-lifecycle-defaults/)

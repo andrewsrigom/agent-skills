@@ -81,6 +81,3 @@ npx shadcn@latest add button dialog form
 ## References
 
 - [CLI and registry defaults](/packs/shadcn/shadcn-cli-registry-and-components-json/references/cli-and-registry-defaults/)
-## References
-
-- [CLI And Registry Defaults](/packs/shadcn/shadcn-cli-registry-and-components-json/references/cli-and-registry-defaults/)

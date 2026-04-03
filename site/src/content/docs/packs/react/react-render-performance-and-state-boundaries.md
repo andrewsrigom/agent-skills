@@ -63,6 +63,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Render cost and state boundaries](/packs/react/react-render-performance-and-state-boundaries/references/render-cost-and-state-boundaries/)
-## References
-
-- [Render Cost And State Boundaries](/packs/react/react-render-performance-and-state-boundaries/references/render-cost-and-state-boundaries/)

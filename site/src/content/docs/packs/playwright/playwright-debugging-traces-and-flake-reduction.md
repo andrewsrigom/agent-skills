@@ -73,6 +73,3 @@ Use this skill when the problem is unreliable test behavior or poor observabilit
 ## References
 
 - [Flake investigation defaults](/packs/playwright/playwright-debugging-traces-and-flake-reduction/references/flake-investigation-defaults/)
-## References
-
-- [Flake Investigation Defaults](/packs/playwright/playwright-debugging-traces-and-flake-reduction/references/flake-investigation-defaults/)

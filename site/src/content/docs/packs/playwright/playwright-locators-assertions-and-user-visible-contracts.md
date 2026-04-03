@@ -81,6 +81,3 @@ await expect(page.getByRole("status")).toHaveText("Saved");
 ## References
 
 - [Locator and assertion defaults](/packs/playwright/playwright-locators-assertions-and-user-visible-contracts/references/locator-and-assertion-defaults/)
-## References
-
-- [Locator And Assertion Defaults](/packs/playwright/playwright-locators-assertions-and-user-visible-contracts/references/locator-and-assertion-defaults/)

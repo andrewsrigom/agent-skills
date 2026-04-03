@@ -83,6 +83,3 @@ npx create-next-app@latest my-app
 ## References
 
 - [Docs map and starting points](/packs/nextjs/nextjs-overview-and-app-router/references/docs-map-and-starting-points/)
-## References
-
-- [Next.js Docs Map and Starting Points](/packs/nextjs/nextjs-overview-and-app-router/references/docs-map-and-starting-points/)

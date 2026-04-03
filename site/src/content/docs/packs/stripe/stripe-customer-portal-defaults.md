@@ -85,6 +85,3 @@ const session = await stripe.billingPortal.sessions.create({
 ## References
 
 - [Self-serve portal defaults](/packs/stripe/stripe-customer-portal-defaults/references/self-serve-portal-defaults/)
-## References
-
-- [Self-Serve Portal Defaults](/packs/stripe/stripe-customer-portal-defaults/references/self-serve-portal-defaults/)

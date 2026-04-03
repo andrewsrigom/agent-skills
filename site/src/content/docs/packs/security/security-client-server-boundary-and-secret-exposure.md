@@ -62,6 +62,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Secret and boundary defaults](/packs/security/security-client-server-boundary-and-secret-exposure/references/secret-and-boundary-defaults/)
-## References
-
-- [Secret And Boundary Defaults](/packs/security/security-client-server-boundary-and-secret-exposure/references/secret-and-boundary-defaults/)

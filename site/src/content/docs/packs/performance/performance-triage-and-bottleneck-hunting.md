@@ -79,6 +79,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Layer ownership checklist](/packs/performance/performance-triage-and-bottleneck-hunting/references/layer-ownership-checklist/)
-## References
-
-- [Layer Ownership Checklist](/packs/performance/performance-triage-and-bottleneck-hunting/references/layer-ownership-checklist/)

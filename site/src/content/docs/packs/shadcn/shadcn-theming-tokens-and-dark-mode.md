@@ -69,6 +69,3 @@ Use this skill when the task is mainly about visual defaults, token strategy, or
 ## References
 
 - [Token and dark-mode defaults](/packs/shadcn/shadcn-theming-tokens-and-dark-mode/references/token-and-dark-mode-defaults/)
-## References
-
-- [Token And Dark-Mode Defaults](/packs/shadcn/shadcn-theming-tokens-and-dark-mode/references/token-and-dark-mode-defaults/)

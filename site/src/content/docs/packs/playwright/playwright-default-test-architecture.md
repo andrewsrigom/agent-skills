@@ -78,6 +78,3 @@ Use this skill when the task is about the overall Playwright testing shape, not 
 ## References
 
 - [Architecture defaults](/packs/playwright/playwright-default-test-architecture/references/architecture-defaults/)
-## References
-
-- [Architecture Defaults](/packs/playwright/playwright-default-test-architecture/references/architecture-defaults/)

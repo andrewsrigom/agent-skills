@@ -63,6 +63,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Regression checklist](/packs/performance/performance-regression-verification/references/regression-checklist/)
-## References
-
-- [Regression Checklist](/packs/performance/performance-regression-verification/references/regression-checklist/)

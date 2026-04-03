@@ -90,6 +90,3 @@ Weak:
 ## References
 
 - [Default type selection matrix](/packs/engineering/write-intentional-commit-message/references/default-type-selection-matrix/)
-## References
-
-- [Default Type Selection Matrix](/packs/engineering/write-intentional-commit-message/references/default-type-selection-matrix/)

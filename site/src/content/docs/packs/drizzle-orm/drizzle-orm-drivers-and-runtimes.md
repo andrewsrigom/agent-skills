@@ -87,7 +87,3 @@ export const db = drizzle({ client: sql });
 
 - [references/database-runtime-matrix.md](/packs/drizzle-orm/drizzle-orm-drivers-and-runtimes/references/database-runtime-matrix/)
 - [references/serverless-and-proxy-notes.md](/packs/drizzle-orm/drizzle-orm-drivers-and-runtimes/references/serverless-and-proxy-notes/)
-## References
-
-- [Database Runtime Matrix](/packs/drizzle-orm/drizzle-orm-drivers-and-runtimes/references/database-runtime-matrix/)
-- [Serverless And Proxy Notes](/packs/drizzle-orm/drizzle-orm-drivers-and-runtimes/references/serverless-and-proxy-notes/)

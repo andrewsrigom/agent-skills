@@ -63,6 +63,3 @@ Use this skill when the problem is API performance under real request load, not 
 ## References
 
 - [Latency and throughput defaults](/packs/nodejs/nodejs-api-latency-and-throughput/references/latency-and-throughput-defaults/)
-## References
-
-- [Latency And Throughput Defaults](/packs/nodejs/nodejs-api-latency-and-throughput/references/latency-and-throughput-defaults/)

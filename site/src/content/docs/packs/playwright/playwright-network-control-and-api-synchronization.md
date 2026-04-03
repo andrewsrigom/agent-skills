@@ -84,6 +84,3 @@ await expect(page.getByText("Profile updated")).toBeVisible();
 ## References
 
 - [Network and API defaults](/packs/playwright/playwright-network-control-and-api-synchronization/references/network-and-api-defaults/)
-## References
-
-- [Network And API Defaults](/packs/playwright/playwright-network-control-and-api-synchronization/references/network-and-api-defaults/)

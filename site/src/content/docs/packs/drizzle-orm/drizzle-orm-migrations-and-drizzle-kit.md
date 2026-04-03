@@ -90,7 +90,3 @@ npx drizzle-kit migrate
 
 - [references/migration-strategies.md](/packs/drizzle-orm/drizzle-orm-migrations-and-drizzle-kit/references/migration-strategies/)
 - [references/drizzle-kit-command-reference.md](/packs/drizzle-orm/drizzle-orm-migrations-and-drizzle-kit/references/drizzle-kit-command-reference/)
-## References
-
-- [Drizzle Kit Command Reference](/packs/drizzle-orm/drizzle-orm-migrations-and-drizzle-kit/references/drizzle-kit-command-reference/)
-- [Migration Strategies](/packs/drizzle-orm/drizzle-orm-migrations-and-drizzle-kit/references/migration-strategies/)

@@ -277,6 +277,7 @@ async function writePackPages(packs, routeMap) {
         skill.sourceRepoPath,
         routeMap,
       );
+      const hasReferencesHeading = /^##\s+References\s*$/m.test(skillBody);
       const skillFrontmatter = [
         "---",
         `title: ${yamlString(skill.title)}`,
@@ -284,7 +285,7 @@ async function writePackPages(packs, routeMap) {
         "---",
         "",
       ].join("\n");
-      const referenceLines = skill.references.length
+      const referenceLines = skill.references.length && !hasReferencesHeading
         ? `\n## References\n\n${skill.references
             .map((reference) => `- [${reference.title}](${reference.routePath})`)
             .join("\n")}\n`

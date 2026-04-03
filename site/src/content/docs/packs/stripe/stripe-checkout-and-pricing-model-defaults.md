@@ -88,6 +88,3 @@ const session = await stripe.checkout.sessions.create({
 ## References
 
 - [Catalog and Checkout defaults](/packs/stripe/stripe-checkout-and-pricing-model-defaults/references/catalog-and-checkout-defaults/)
-## References
-
-- [Catalog And Checkout Defaults](/packs/stripe/stripe-checkout-and-pricing-model-defaults/references/catalog-and-checkout-defaults/)

@@ -79,6 +79,3 @@ Use this skill when the task is about choosing a sane Stripe integration shape b
 ## References
 
 - [Default architecture and skill boundaries](/packs/stripe/stripe-integration-defaults-and-routing/references/default-architecture-and-boundaries/)
-## References
-
-- [Default Architecture And Skill Boundaries](/packs/stripe/stripe-integration-defaults-and-routing/references/default-architecture-and-boundaries/)

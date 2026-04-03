@@ -78,6 +78,3 @@ export function ToolbarButton() {
 ## References
 
 - [Styling and accessibility](/packs/lucide-react/lucide-react-styling-and-accessibility/references/styling-and-a11y/)
-## References
-
-- [Lucide React Styling And Accessibility](/packs/lucide-react/lucide-react-styling-and-accessibility/references/styling-and-a11y/)

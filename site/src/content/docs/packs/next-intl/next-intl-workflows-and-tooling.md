@@ -82,7 +82,3 @@ Use this skill when the task is about durable setup, typing, validation, transla
 
 - [references/plugin-types-and-loading.md](/packs/next-intl/next-intl-workflows-and-tooling/references/plugin-types-and-loading/)
 - [references/localization-ops-and-extraction.md](/packs/next-intl/next-intl-workflows-and-tooling/references/localization-ops-and-extraction/)
-## References
-
-- [Localization Operations and Extraction](/packs/next-intl/next-intl-workflows-and-tooling/references/localization-ops-and-extraction/)
-- [Plugin, Types, and Message Loading](/packs/next-intl/next-intl-workflows-and-tooling/references/plugin-types-and-loading/)

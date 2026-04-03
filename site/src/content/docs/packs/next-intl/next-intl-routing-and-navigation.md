@@ -79,8 +79,3 @@ Use this skill when the task is primarily about URL structure, locale negotiatio
 - [references/routing-architecture.md](/packs/next-intl/next-intl-routing-and-navigation/references/routing-architecture/)
 - [references/locale-switchers-and-alternate-links.md](/packs/next-intl/next-intl-routing-and-navigation/references/locale-switchers-and-alternate-links/)
 - [references/pathnames-domains-and-cms.md](/packs/next-intl/next-intl-routing-and-navigation/references/pathnames-domains-and-cms/)
-## References
-
-- [Locale Switchers, Cookies, and Alternate Links](/packs/next-intl/next-intl-routing-and-navigation/references/locale-switchers-and-alternate-links/)
-- [Pathnames, Domains, and CMS URLs](/packs/next-intl/next-intl-routing-and-navigation/references/pathnames-domains-and-cms/)
-- [Routing Architecture](/packs/next-intl/next-intl-routing-and-navigation/references/routing-architecture/)

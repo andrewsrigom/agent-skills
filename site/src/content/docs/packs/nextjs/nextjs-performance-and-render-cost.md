@@ -67,6 +67,3 @@ Use this skill when the main problem is route performance, render cost, or start
 ## References
 
 - [Render cost defaults](/packs/nextjs/nextjs-performance-and-render-cost/references/render-cost-defaults/)
-## References
-
-- [Render Cost Defaults](/packs/nextjs/nextjs-performance-and-render-cost/references/render-cost-defaults/)

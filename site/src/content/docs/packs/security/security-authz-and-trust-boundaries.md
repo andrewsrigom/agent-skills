@@ -63,6 +63,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Trust boundary checklist](/packs/security/security-authz-and-trust-boundaries/references/trust-boundary-checklist/)
-## References
-
-- [Trust Boundary Checklist](/packs/security/security-authz-and-trust-boundaries/references/trust-boundary-checklist/)

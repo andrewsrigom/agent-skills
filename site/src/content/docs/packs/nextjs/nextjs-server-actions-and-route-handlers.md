@@ -95,6 +95,3 @@ export async function savePost(formData: FormData) {
 ## References
 
 - [Server boundaries and handler selection](/packs/nextjs/nextjs-server-actions-and-route-handlers/references/server-boundaries-and-handler-selection/)
-## References
-
-- [Server Boundaries and Handler Selection](/packs/nextjs/nextjs-server-actions-and-route-handlers/references/server-boundaries-and-handler-selection/)

@@ -89,7 +89,3 @@ export default defineConfig({
 
 - [references/docs-map.md](/packs/drizzle-orm/drizzle-orm-overview-and-setup/references/docs-map/)
 - [references/package-and-upgrade-snapshot.md](/packs/drizzle-orm/drizzle-orm-overview-and-setup/references/package-and-upgrade-snapshot/)
-## References
-
-- [Drizzle Docs Map](/packs/drizzle-orm/drizzle-orm-overview-and-setup/references/docs-map/)
-- [Package And Upgrade Snapshot](/packs/drizzle-orm/drizzle-orm-overview-and-setup/references/package-and-upgrade-snapshot/)

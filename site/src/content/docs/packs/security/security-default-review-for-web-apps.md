@@ -71,6 +71,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Default review map](/packs/security/security-default-review-for-web-apps/references/default-review-map/)
-## References
-
-- [Default Review Map](/packs/security/security-default-review-for-web-apps/references/default-review-map/)

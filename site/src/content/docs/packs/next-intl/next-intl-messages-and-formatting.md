@@ -78,7 +78,3 @@ Use this skill when the task is about message authoring, translation consumption
 
 - [references/icu-rich-text-and-catalogs.md](/packs/next-intl/next-intl-messages-and-formatting/references/icu-rich-text-and-catalogs/)
 - [references/formatting-validation-and-types.md](/packs/next-intl/next-intl-messages-and-formatting/references/formatting-validation-and-types/)
-## References
-
-- [Formatting, Validation, and Types](/packs/next-intl/next-intl-messages-and-formatting/references/formatting-validation-and-types/)
-- [ICU, Rich Text, and Catalog Structure](/packs/next-intl/next-intl-messages-and-formatting/references/icu-rich-text-and-catalogs/)

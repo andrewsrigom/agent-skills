@@ -92,6 +92,3 @@ switch (event.type) {
 ## References
 
 - [Webhook event handling defaults](/packs/stripe/stripe-webhook-first-billing-state/references/webhook-event-handling-defaults/)
-## References
-
-- [Webhook Event Handling Defaults](/packs/stripe/stripe-webhook-first-billing-state/references/webhook-event-handling-defaults/)

@@ -70,6 +70,3 @@ When answering with this skill, prefer:
 ## References
 
 - [Measurement-first defaults](/packs/performance/profiling-before-optimizing/references/measurement-first-defaults/)
-## References
-
-- [Measurement-First Defaults](/packs/performance/profiling-before-optimizing/references/measurement-first-defaults/)

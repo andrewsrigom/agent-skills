@@ -86,6 +86,3 @@ export function Example() {
 ## References
 
 - [React basics and setup](/packs/lucide-react/lucide-react-overview-and-setup/references/react-basics-and-setup/)
-## References
-
-- [Lucide React Basics And Setup](/packs/lucide-react/lucide-react-overview-and-setup/references/react-basics-and-setup/)

@@ -71,6 +71,3 @@ Use this skill when the task is mainly about whether and how to adopt shadcn in 
 ## References
 
 - [Adoption defaults and ownership model](/packs/shadcn/shadcn-overview-and-code-ownership/references/adoption-defaults-and-ownership-model/)
-## References
-
-- [Adoption Defaults And Ownership Model](/packs/shadcn/shadcn-overview-and-code-ownership/references/adoption-defaults-and-ownership-model/)

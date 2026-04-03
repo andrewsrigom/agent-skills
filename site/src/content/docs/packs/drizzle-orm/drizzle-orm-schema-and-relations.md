@@ -94,7 +94,3 @@ export const usersRelations = relations(users, ({ many }) => ({
 
 - [references/schema-design.md](/packs/drizzle-orm/drizzle-orm-schema-and-relations/references/schema-design/)
 - [references/relations-and-advanced-schema.md](/packs/drizzle-orm/drizzle-orm-schema-and-relations/references/relations-and-advanced-schema/)
-## References
-
-- [Relations And Advanced Schema](/packs/drizzle-orm/drizzle-orm-schema-and-relations/references/relations-and-advanced-schema/)
-- [Schema Design](/packs/drizzle-orm/drizzle-orm-schema-and-relations/references/schema-design/)

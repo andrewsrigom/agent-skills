@@ -68,6 +68,3 @@ Use this skill when the task is about form UI structure, not when it is purely a
 ## References
 
 - [Form ownership and state defaults](/packs/shadcn/shadcn-forms-and-field-primitives/references/form-ownership-and-state-defaults/)
-## References
-
-- [Form Ownership And State Defaults](/packs/shadcn/shadcn-forms-and-field-primitives/references/form-ownership-and-state-defaults/)

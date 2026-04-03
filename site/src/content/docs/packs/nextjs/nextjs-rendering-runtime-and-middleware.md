@@ -84,6 +84,3 @@ export const runtime = 'edge'
 ## References
 
 - [Rendering runtime and proxy](/packs/nextjs/nextjs-rendering-runtime-and-middleware/references/rendering-runtime-and-proxy/)
-## References
-
-- [Rendering Runtime and Proxy](/packs/nextjs/nextjs-rendering-runtime-and-middleware/references/rendering-runtime-and-proxy/)

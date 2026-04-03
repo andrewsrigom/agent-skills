@@ -91,7 +91,3 @@ const rows = await db
 
 - [references/query-patterns.md](/packs/drizzle-orm/drizzle-orm-queries-and-sql/references/query-patterns/)
 - [references/advanced-query-features.md](/packs/drizzle-orm/drizzle-orm-queries-and-sql/references/advanced-query-features/)
-## References
-
-- [Advanced Query Features](/packs/drizzle-orm/drizzle-orm-queries-and-sql/references/advanced-query-features/)
-- [Query Patterns](/packs/drizzle-orm/drizzle-orm-queries-and-sql/references/query-patterns/)

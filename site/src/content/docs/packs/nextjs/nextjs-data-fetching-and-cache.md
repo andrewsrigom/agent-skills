@@ -86,6 +86,3 @@ const posts = await fetch('https://api.example.com/posts', {
 ## References
 
 - [Cache and revalidation matrix](/packs/nextjs/nextjs-data-fetching-and-cache/references/cache-and-revalidation-matrix/)
-## References
-
-- [Cache and Revalidation Matrix](/packs/nextjs/nextjs-data-fetching-and-cache/references/cache-and-revalidation-matrix/)

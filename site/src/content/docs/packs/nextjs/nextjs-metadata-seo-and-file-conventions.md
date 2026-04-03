@@ -88,6 +88,3 @@ export const metadata: Metadata = {
 ## References
 
 - [Metadata and file conventions](/packs/nextjs/nextjs-metadata-seo-and-file-conventions/references/metadata-and-file-conventions/)
-## References
-
-- [Metadata and File Conventions](/packs/nextjs/nextjs-metadata-seo-and-file-conventions/references/metadata-and-file-conventions/)
