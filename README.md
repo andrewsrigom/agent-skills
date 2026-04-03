@@ -4,14 +4,9 @@ Opinionated skill packs for coding agents, libraries, and engineering workflows.
 
 Maintained by [@andrewsrigom](https://github.com/andrewsrigom).
 
-This repo publishes reusable, installable skills grouped by pack. The goal is not to mirror vendor docs. The goal is to keep agents on a sane implementation path with explicit defaults, guardrails, anti-patterns, and verification steps.
+This repo publishes reusable, installable skills grouped by pack.
 
-Every maintained skill is expected to stay focused on decisions that help an agent ship work without drifting:
-
-- a clear default path
-- when to deviate from that default
-- what to avoid
-- how to verify the result
+The goal is not to mirror vendor docs. The goal is to keep agents on a sane implementation path with explicit defaults, guardrails, anti-patterns, and verification steps.
 
 <!-- catalog-summary:start -->
 Current catalog: 52 skills across library packs and workflow packs.
@@ -54,21 +49,9 @@ Useful flags:
 
 If you do not want to use the CLI, clone the repo and copy or symlink the pack or skill folders into your agent's supported skills directory.
 
-## Public Site
+## Catalog
 
-This repo also includes a static catalog in `site/` built with Astro Starlight for GitHub Pages.
-
-- expected Pages URL after publish: `https://andrewsrigom.github.io/agent-skills/`
-- source of truth stays in the repo root; the site is generated from `README.md`, `SKILL.md`, and `references/*.md`
-- deployment is handled by `.github/workflows/deploy-pages.yml`
-
-Build it locally:
-
-```bash
-cd site
-npm install
-npm run dev
-```
+Full catalog site: `https://andrewsrigom.github.io/agent-skills/`
 
 ## Library Packs
 
@@ -94,24 +77,7 @@ npm run dev
 - `skilling` (1 skill)
 <!-- workflow-packs:end -->
 
-For the current installable list, use `npx skills add . --list` or browse the pack folders directly.
-
-## Layout
-
-Skills are grouped by pack at the repo root.
-
-```text
-<pack>/
-  <skill>/
-    SKILL.md
-    references/
-    scripts/
-    assets/
-```
-
-Packs stay split by decision surface instead of bundling everything into one large prompt.
-
-The public catalog renderer lives in `site/`, uses Starlight's standard documentation layout, and does not change the installable skill layout.
+For the current installable list, use `npx skills add . --list`, browse the pack folders directly, or use the public site.
 
 ## Contributing
 
