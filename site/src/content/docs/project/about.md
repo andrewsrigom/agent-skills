@@ -17,7 +17,7 @@ This repo publishes reusable, installable skills grouped by pack.
 The goal is not to mirror vendor docs. The goal is to keep agents on a sane implementation path with explicit defaults, guardrails, anti-patterns, and verification steps.
 
 <!-- catalog-summary:start -->
-Current catalog: 52 skills across library packs and workflow packs.
+Current catalog: 62 skills across library packs and workflow packs.
 <!-- catalog-summary:end -->
 
 ## Install
@@ -70,9 +70,12 @@ Full catalog site: `https://andrewsrigom.github.io/agent-skills/`
 - `fastify` (2 skills)
 - `lucide-react` (3 skills)
 - `next-intl` (4 skills)
-- `nextjs` (5 skills)
-- `nodejs` (1 skill)
+- `nextjs` (6 skills)
+- `nodejs` (2 skills)
+- `performance` (3 skills)
 - `playwright` (5 skills)
+- `react` (1 skill)
+- `security` (4 skills)
 - `shadcn` (5 skills)
 - `stripe` (5 skills)
 - `typescript` (1 skill)
