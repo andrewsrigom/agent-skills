@@ -2,6 +2,8 @@
 
 Opinionated skill packs for coding agents, libraries, and engineering workflows.
 
+Maintained by [@andrewsrigom](https://github.com/andrewsrigom).
+
 This repo publishes reusable, installable skills grouped by pack. The goal is not to mirror vendor docs. The goal is to keep agents on a sane implementation path with explicit defaults, guardrails, anti-patterns, and verification steps.
 
 Every maintained skill is expected to stay focused on decisions that help an agent ship work without drifting:
