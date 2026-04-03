@@ -123,15 +123,7 @@ The public catalog renderer lives in `site/`, uses Starlight's standard document
 
 ## Contributing
 
-Contributions should strengthen routing quality and implementation quality, not just add more text.
-
-- use official docs first
-- keep pack boundaries and skill boundaries clear
-- keep `SKILL.md` lean and move detail into targeted references
-- prefer explicit defaults and anti-patterns over option lists
-- validate changed skills before opening a PR
-
-See [CONTRIBUTING.md](/project/contributing/) for workflow and validation commands.
+See [CONTRIBUTING.md](/project/contributing/) for contribution rules, workflow, and validation commands.
 
 ## Project Docs
 
