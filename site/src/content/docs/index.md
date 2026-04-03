@@ -1,46 +1,99 @@
 ---
-title: agent-skills
-description: Opinionated, installable skill packs for coding agents, libraries, and engineering workflows.
-template: splash
-hero:
-  title: agent-skills
-  tagline: Opinionated, installable skill packs with clear defaults, guardrails, and routing boundaries.
-  actions:
-    - text: Browse project docs
-      link: /project/about/
-      icon: right-arrow
-    - text: View on GitHub
-      link: https://github.com/andrewsrigom/agent-skills
-      icon: external
-      variant: minimal
+title: "agent-skills"
+description: "Opinionated, installable skill packs for coding agents, libraries, and engineering workflows."
 ---
+> Source: [`README.md`](https://github.com/andrewsrigom/agent-skills/blob/main/README.md)
 
-## Catalog snapshot
+# agent-skills
 
-- 14 packs
-- 52 skills
-- 46 supporting references
+Opinionated skill packs for coding agents, libraries, and engineering workflows.
 
-## Project docs
+Maintained by [@andrewsrigom](https://github.com/andrewsrigom).
 
-- [About the project](/project/about/)
-- [Contributing](/project/contributing/)
+This repo publishes reusable, installable skills grouped by pack.
+
+The goal is not to mirror vendor docs. The goal is to keep agents on a sane implementation path with explicit defaults, guardrails, anti-patterns, and verification steps.
+
+<!-- catalog-summary:start -->
+Current catalog: 62 skills across library packs and workflow packs.
+<!-- catalog-summary:end -->
+
+## Install
+
+This repo is compatible with [`skills.sh`](https://skills.sh/) and the [`skills` CLI](https://skills.sh/docs/cli).
+
+Browse the catalog:
+
+```bash
+npx skills add andrewsrigom/agent-skills --list
+```
+
+Install everything from GitHub:
+
+```bash
+npx skills add andrewsrigom/agent-skills --all
+```
+
+Install a single skill:
+
+```bash
+npx skills add https://github.com/andrewsrigom/agent-skills/tree/main/nextjs/nextjs-overview-and-app-router
+```
+
+Work from a local clone:
+
+```bash
+npx skills add . --list
+npx skills add . --all
+```
+
+Useful flags:
+
+- `--skill` installs only selected skills
+- `-g` installs globally instead of project-local
+- `--copy` copies files instead of symlinking
+
+If you do not want to use the CLI, clone the repo and copy or symlink the pack or skill folders into your agent's supported skills directory.
+
+## Catalog
+
+Full catalog site: `https://andrewsrigom.github.io/agent-skills/`
+
+## Library Packs
+
+<!-- library-packs:start -->
+- `better-auth` (5 skills)
+- `documentation` (1 skill)
+- `drizzle-orm` (6 skills)
+- `fastify` (2 skills)
+- `lucide-react` (3 skills)
+- `next-intl` (4 skills)
+- `nextjs` (6 skills)
+- `nodejs` (2 skills)
+- `performance` (3 skills)
+- `playwright` (5 skills)
+- `react` (1 skill)
+- `security` (4 skills)
+- `shadcn` (5 skills)
+- `stripe` (5 skills)
+- `typescript` (1 skill)
+<!-- library-packs:end -->
+
+## Workflow Packs
+
+<!-- workflow-packs:start -->
+- `engineering` (8 skills)
+- `skilling` (1 skill)
+<!-- workflow-packs:end -->
+
+For the current installable list, use `npx skills add . --list`, browse the pack folders directly, or use the public site.
+
+## Contributing
+
+See [CONTRIBUTING.md](/project/contributing/) for contribution rules, workflow, and validation commands.
+
+## Project Docs
+
+- [Contributing guide](/project/contributing/)
 - [Code of conduct](/project/code-of-conduct/)
 - [License](/project/license/)
-
-## Skill packs
-
-- [`better-auth`](/packs/better-auth/) — 5 skills
-- [`documentation`](/packs/documentation/) — 1 skill
-- [`drizzle-orm`](/packs/drizzle-orm/) — 6 skills
-- [`engineering`](/packs/engineering/) — 8 skills
-- [`fastify`](/packs/fastify/) — 2 skills
-- [`lucide-react`](/packs/lucide-react/) — 3 skills
-- [`next-intl`](/packs/next-intl/) — 4 skills
-- [`nextjs`](/packs/nextjs/) — 5 skills
-- [`nodejs`](/packs/nodejs/) — 1 skill
-- [`playwright`](/packs/playwright/) — 5 skills
-- [`shadcn`](/packs/shadcn/) — 5 skills
-- [`skilling`](/packs/skilling/) — 1 skill
-- [`stripe`](/packs/stripe/) — 5 skills
-- [`typescript`](/packs/typescript/) — 1 skill

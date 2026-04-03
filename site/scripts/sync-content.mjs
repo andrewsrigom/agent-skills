@@ -70,7 +70,7 @@ async function main() {
   await ensureDir(projectDocsDir);
   await ensureDir(packsDocsDir);
 
-  await writeHomePage(catalog);
+  await writeHomePage(catalog, routeMap);
   await writeProjectDocs(catalog.projectDocs, routeMap);
   await writePackPages(catalog.packs, routeMap);
 
@@ -199,53 +199,27 @@ function buildRouteMap(catalog) {
   return routeMap;
 }
 
-async function writeHomePage(catalog) {
-  const packLines = catalog.packs
-    .map(
-      (pack) =>
-        `- [\`${pack.slug}\`](${pack.routePath}) — ${pack.skills.length} ${
-          pack.skills.length === 1 ? "skill" : "skills"
-        }`,
-    )
-    .join("\n");
+async function writeHomePage(catalog, routeMap) {
+  const aboutDoc = catalog.projectDocs.find((doc) => doc.sourcePath === "README.md");
+  if (!aboutDoc) {
+    throw new Error("README.md project doc not found");
+  }
 
-  const projectLines = catalog.projectDocs
-    .map((doc) => `- [${doc.title}](${doc.routePath})`)
-    .join("\n");
+  const body = rewriteMarkdownLinks(
+    aboutDoc.body,
+    aboutDoc.sourcePath,
+    routeMap,
+  );
+  const frontmatter = [
+    "---",
+    'title: "agent-skills"',
+    'description: "Opinionated, installable skill packs for coding agents, libraries, and engineering workflows."',
+    "---",
+    "",
+  ].join("\n");
+  const sourceBlock = `> Source: [\`${aboutDoc.sourcePath}\`](${githubBlobUrl(aboutDoc.sourcePath)})\n\n`;
 
-  const contents = `---
-title: agent-skills
-description: Opinionated, installable skill packs for coding agents, libraries, and engineering workflows.
-template: splash
-hero:
-  title: agent-skills
-  tagline: Opinionated, installable skill packs with clear defaults, guardrails, and routing boundaries.
-  actions:
-    - text: Browse project docs
-      link: /project/about/
-      icon: right-arrow
-    - text: View on GitHub
-      link: ${repositoryUrl}
-      icon: external
-      variant: minimal
----
-
-## Catalog snapshot
-
-- ${catalog.packCount} packs
-- ${catalog.skillCount} skills
-- ${catalog.referenceCount} supporting references
-
-## Project docs
-
-${projectLines}
-
-## Skill packs
-
-${packLines}
-`;
-
-  await writeText(path.join(docsDir, "index.md"), contents);
+  await writeText(path.join(docsDir, "index.md"), `${frontmatter}${sourceBlock}${body.trim()}\n`);
 }
 
 async function writeProjectDocs(docs, routeMap) {
